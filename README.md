@@ -11,7 +11,7 @@ Analisis data penjualan e-commerce menggunakan Python.
 - Diskon ≥30% rata-rata rugi $136/transaksi
 
 ## 📂 Dataset
-Source: [Superstore Sales Dataset](link Kaggle kamu di sini)
+Source: [Superstore Sales Dataset](https://kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 📓 Notebook
 Buka `ecommerce_analysis.ipynb` untuk analisis lengkap
